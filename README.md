@@ -113,8 +113,7 @@ This project demonstrates:
 ---
 
 ## 🔗 Prototype  
-👉 Paste your Figma link here  
-
+👉 https://www.figma.com/proto/RrImAnTOiAKbTDd5g8QFlQ/Untitled?node-id=86-71&p=f&t=GLk42gsfhAJ7va2Z-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=86%3A71
 ---
 
 ## ⭐ Support  
